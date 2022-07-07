@@ -1,5 +1,4 @@
-# task-manager-api
-||---Task Manager---||
+# Task Manager Api
 
 This application has the ability to maintain record of the tasks created the application users. An user can also create, view, update and delete their own tasks.
 User can also upload their profile pictures and view those.
